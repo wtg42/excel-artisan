@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "compilerOptions": {
+    "types": ["@types/fuse.js"]
+  },
+  "imports": {
+    "fuse.js": "https://esm.sh/fuse.js@6.6.2"
+  }
+}

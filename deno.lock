@@ -1,0 +1,31 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:fuse.js@6.6.2": "npm:fuse.js@6.6.2"
+    },
+    "npm": {
+      "fuse.js@6.6.2": {
+        "integrity": "sha512-cJaJkxCCxC8qIIcPBF9yGxY0W/tVZS3uEISDxhYIdtk8OL93pe+6Zj7LjCqVV4dzbqcriOZ+kQ/NE4RXZHsIGA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://deno.land/std@0.107.0/_util/assert.ts": "2f868145a042a11d5ad0a3c748dcf580add8a0dbc0e876eaa0026303a5488f58",
+    "https://deno.land/std@0.107.0/bytes/bytes_list.ts": "3bff6a09c72b2e0b1e92e29bd3b135053894196cca07a2bba842901073efe5cb",
+    "https://deno.land/std@0.107.0/bytes/mod.ts": "440684e07e8f57a19a43b34d57eb63af0b36fc92b6657b6dcdbf9d5612d62e29",
+    "https://deno.land/std@0.107.0/encoding/csv.ts": "fa3014e78b95630a554671e9069d3253459e4d41b54d6e8e67f7bd1096b5c509",
+    "https://deno.land/std@0.107.0/encoding/csv_stringify.ts": "f9fe4889f1b2987c8640b4695d2d8836a978d034708ca90a850d3ec6b800d9ba",
+    "https://deno.land/std@0.107.0/fmt/colors.ts": "8368ddf2d48dfe413ffd04cdbb7ae6a1009cf0dccc9c7ff1d76259d9c61a0621",
+    "https://deno.land/std@0.107.0/io/buffer.ts": "3ead6bb11276ebcf093c403f74f67fd2205a515dbbb9061862c468ca56f37cd8",
+    "https://deno.land/std@0.107.0/io/bufio.ts": "988237679157f1331a1e81afeac42f8364ab8dc583380d67db7e4cbad3e22e81",
+    "https://deno.land/std@0.107.0/io/readers.ts": "17403919724fef2f343c88555606368868a5c752a1099ad801f6a381c170f62d",
+    "https://deno.land/std@0.107.0/io/util.ts": "85c33d61b20fd706acc094fe80d4c8ae618b04abcf3a96ca2b47071842c1c8ac",
+    "https://deno.land/std@0.107.0/testing/_diff.ts": "ccd6c3af6e44c74bf1591acb1361995f5f50df64323a6e7fb3f16c8ea792c940",
+    "https://deno.land/std@0.107.0/testing/asserts.ts": "05ab5d53d1e2b8402987c50c622d6d8e6f89d63c0798ab26923ea5fcbe10f9ed",
+    "https://deno.land/std@0.107.0/textproto/mod.ts": "79b72611c1cff56275f1966dda6bc92623d34890960f2db10a9d5d4454507284",
+    "https://esm.sh/fuse.js@6.6.2": "35bffe1d3531fc9edfcba82bc1b47920e8c68d73336d52739c61e64ab1e2a1db",
+    "https://esm.sh/v135/fuse.js@6.6.2/denonext/fuse.mjs": "92b5c149b12ba817a6b1cc7aa909f3dbd1d0f5f76fa7abd6bd3872fc70ea66c8"
+  }
+}
